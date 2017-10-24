@@ -1,1 +1,1 @@
-include ':connswitch', ':example'
+include ':example', ':uniconn'
